@@ -1,1 +1,17 @@
-Test template.pros
+{
+  "name": "branchline-test-template",
+  "version": "1.0.1",
+  "short_description": "A test template for Branchline",
+  "long_description_markdown_file": "README.md",
+  "icon_file": "icon.png",
+  "tags": [
+    "branchline",
+    "test",
+    "template"
+  ],
+  "dependencies": {},
+  "documentation_url": "https://github.com/mayankpatibandla/branchline-test-template/docs",
+  "repository_url": "https://github.com/mayankpatibandla/branchline-test-template",
+  "author": "Mayank Patibandla",
+  "license": "MIT"
+}
