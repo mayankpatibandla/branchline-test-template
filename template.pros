@@ -2,7 +2,7 @@
   "name": "branchline-test-template",
   "version": "1.0.2",
   "short_description": "A test template for Branchline",
-  "long_description_markdown_file": "afREADME.md",
+  "long_description_markdown_file": "README.md",
   "icon_file": "aicon.png",
   "tags": [
     "branchline",
