@@ -11,7 +11,7 @@
     123
   ],
   "dependencies": {},
-  "documentation_url": "ahttps://github.com/mayankpatibandla/branchline-test-template/docs",
+  "documentation_url": "https://github.com/mayankpatibandla/branchline-test-template/docs",
   "repository_url": "ahttps://github.com/mayankpatibandla/branchline-test-template",
   "author": "Mayank Patibandla",
   "license": "MIT"
