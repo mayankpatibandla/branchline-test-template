@@ -9,7 +9,7 @@
     "test",
     "template"
   ],
-  "dependencies": {},
+  "dependencies": [],
   "documentation_url": "https://github.com/mayankpatibandla/branchline-test-template/docs",
   "repository_url": "https://github.com/mayankpatibandla/branchline-test-template",
   "author": "Mayank Patibandla",
